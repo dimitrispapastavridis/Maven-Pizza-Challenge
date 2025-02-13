@@ -1,6 +1,5 @@
 # 🍕 Pizza Sales Analytics Dashboard
-## This project is based on [Maven Pizza Challenge](https://mavenanalytics.io/challenges/maven-pizza-challenge/be511a47-85fd-4931-8293-c3bffb577199) by Maven Analytics.
-It showcases advanced Power BI techniques to track and explore key sales metrics.
+### This project is based on [Maven Pizza Challenge](https://mavenanalytics.io/challenges/maven-pizza-challenge/be511a47-85fd-4931-8293-c3bffb577199) by Maven Analytics. It showcases advanced Power BI techniques to track and explore key sales metrics.
 
 ## 🛠 Features
 
