@@ -3,10 +3,10 @@ This project is based on [Maven Pizza Challenge](https://mavenanalytics.io/chall
 
 ## 🛠 Features
 
-✅ Interactive dashboard built in Power BI.
-✅ Analysis of sales performance across different pizza types, sizes, and categories.
-✅ Insights into revenue trends, top-selling pizzas, and customer preferences.
-✅ Dynamic visuals and slicers for easy data exploration.
+- Interactive dashboard built in Power BI.
+- Analysis of sales performance across different pizza types, sizes, and categories.
+- Insights into revenue trends, top-selling pizzas, and customer preferences.
+- Dynamic visuals and slicers for easy data exploration.
 
 ## 📊 Dashboard Preview
 
